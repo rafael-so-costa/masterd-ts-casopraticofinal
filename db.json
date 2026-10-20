@@ -1,4 +1,137 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "id": "demo-web-corporativo",
+      "nome": "Website Corporativo",
+      "descricao": "Desenvolvimento de um website institucional responsivo para a TechSolutions, incluindo planeamento, design, implementacao, testes e publicacao.",
+      "tarefas": [
+        {
+          "id": "web-t01",
+          "titulo": "Levantamento de requisitos",
+          "descricao": "Reunir com o cliente, identificar objetivos e documentar as funcionalidades necessarias.",
+          "dataConclusao": "2026-10-05",
+          "status": "concluida"
+        },
+        {
+          "id": "web-t02",
+          "titulo": "Definicao da arquitetura",
+          "descricao": "Organizar as paginas, a navegacao e a estrutura tecnica do website.",
+          "dataConclusao": "2026-10-09",
+          "status": "concluida"
+        },
+        {
+          "id": "web-t03",
+          "titulo": "Criacao do design visual",
+          "descricao": "Definir tipografia, cores, componentes e prototipos das paginas.",
+          "dataConclusao": "2026-10-15",
+          "status": "concluida"
+        },
+        {
+          "id": "web-t04",
+          "titulo": "Desenvolvimento da homepage",
+          "descricao": "Implementar a pagina inicial com apresentacao da empresa e servicos.",
+          "dataConclusao": "2026-10-16",
+          "status": "em_progresso"
+        },
+        {
+          "id": "web-t05",
+          "titulo": "Implementacao do formulario de contacto",
+          "descricao": "Criar o formulario, validar campos e apresentar mensagens de confirmacao.",
+          "dataConclusao": "2026-10-28",
+          "status": "em_progresso"
+        },
+        {
+          "id": "web-t06",
+          "titulo": "Otimizacao responsiva",
+          "descricao": "Adaptar o website a computadores, tablets e telemoveis.",
+          "dataConclusao": "2026-11-03",
+          "status": "em_progresso"
+        },
+        {
+          "id": "web-t07",
+          "titulo": "Testes funcionais e acessibilidade",
+          "descricao": "Testar navegacao, formularios, acessibilidade e compatibilidade entre navegadores.",
+          "dataConclusao": "2026-11-10",
+          "status": "pendente"
+        },
+        {
+          "id": "web-t08",
+          "titulo": "Publicacao do website",
+          "descricao": "Preparar a versao de producao e publicar o website no servidor.",
+          "dataConclusao": "2026-11-15",
+          "status": "pendente"
+        }
+      ]
+    },
+    {
+      "id": "demo-app-mobile",
+      "nome": "Aplicação Mobile",
+      "descricao": "Criacao de uma aplicacao movel para gestao de atividades, com autenticacao, interface responsiva, funcionalidades de utilizador e testes.",
+      "tarefas": [
+        {
+          "id": "app-t01",
+          "titulo": "Planeamento funcional",
+          "descricao": "Definir as funcionalidades principais, o publico-alvo e os criterios de aceitacao.",
+          "dataConclusao": "2026-10-06",
+          "status": "concluida"
+        },
+        {
+          "id": "app-t02",
+          "titulo": "Prototipagem da aplicacao",
+          "descricao": "Criar os wireframes e os fluxos de navegacao das principais funcionalidades.",
+          "dataConclusao": "2026-10-12",
+          "status": "concluida"
+        },
+        {
+          "id": "app-t03",
+          "titulo": "Implementacao do ecra inicial",
+          "descricao": "Construir o dashboard principal e os componentes de navegacao.",
+          "dataConclusao": "2026-10-26",
+          "status": "em_progresso"
+        },
+        {
+          "id": "app-t04",
+          "titulo": "Autenticacao de utilizadores",
+          "descricao": "Implementar os formularios de acesso e as validacoes necessarias.",
+          "dataConclusao": "2026-10-30",
+          "status": "em_progresso"
+        },
+        {
+          "id": "app-t05",
+          "titulo": "Gestao do perfil",
+          "descricao": "Permitir consultar e atualizar as informacoes do utilizador.",
+          "dataConclusao": "2026-11-04",
+          "status": "em_progresso"
+        },
+        {
+          "id": "app-t06",
+          "titulo": "Integracao com a API",
+          "descricao": "Ligar a aplicacao aos endpoints necessarios para consultar e guardar dados.",
+          "dataConclusao": "2026-11-10",
+          "status": "pendente"
+        },
+        {
+          "id": "app-t07",
+          "titulo": "Testes unitarios e de integracao",
+          "descricao": "Validar componentes, formularios, fluxos de utilizador e tratamento de erros.",
+          "dataConclusao": "2026-11-17",
+          "status": "pendente"
+        },
+        {
+          "id": "app-t08",
+          "titulo": "Preparacao para distribuicao",
+          "descricao": "Rever a experiencia de utilizacao e preparar a versao de demonstracao.",
+          "dataConclusao": "2026-11-25",
+          "status": "pendente"
+        }
+      ]
+    },
+    {
+      "id": "J6cQqubTi-s",
+      "nome": "Teste",
+      "descricao": "Teste",
+      "tarefas": []
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
