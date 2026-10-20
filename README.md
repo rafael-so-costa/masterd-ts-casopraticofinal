@@ -1,4 +1,4 @@
-# Gestão de Projetos — CPT0040
+# Gestão de Projetos
 
 **Autor:** Rafael Costa
 
